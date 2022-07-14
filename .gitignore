@@ -1,0 +1,6 @@
+budget_env
+__pycache__
+migrations
+app.db
+.env
+plaid_config
